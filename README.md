@@ -112,14 +112,14 @@ to your website's benefit page and show only desired benefit by following this U
 
 # Screenshots
 
-![1. Benefits - Front-End Benefits Slider](https://ps.w.org/deals/assets/screenshot-1.jpg)
-![2. Benefits - Responsive View of Benefits Slider](https://ps.w.org/deals/assets/screenshot-2.jpg)
-![3. Benefits - Admin Benefit Manager](https://ps.w.org/deals/assets/screenshot-3.jpg)
-![4. Benefits - Admin Global Settings](https://ps.w.org/deals/assets/screenshot-4.jpg)
-![5. Benefits - Admin Import Demo](https://ps.w.org/deals/assets/screenshot-5.jpg)
-![6. Benefits - Admin Plugin Updating](https://ps.w.org/deals/assets/screenshot-6.jpg)
-![7. Benefits - Admin Plugin Status](https://ps.w.org/deals/assets/screenshot-7.jpg)
-![8. Benefits - Admin User Manual](https://ps.w.org/deals/assets/screenshot-8.jpg)
+![1. Benefits - Front-End Benefits Slider](https://ps.w.org/benefits/assets/screenshot-1.jpg)
+![2. Benefits - Responsive View of Benefits Slider](https://ps.w.org/benefits/assets/screenshot-2.jpg)
+![3. Benefits - Admin Benefit Manager](https://ps.w.org/benefits/assets/screenshot-3.jpg)
+![4. Benefits - Admin Global Settings](https://ps.w.org/benefits/assets/screenshot-4.jpg)
+![5. Benefits - Admin Import Demo](https://ps.w.org/benefits/assets/screenshot-5.jpg)
+![6. Benefits - Admin Plugin Updating](https://ps.w.org/benefits/assets/screenshot-6.jpg)
+![7. Benefits - Admin Plugin Status](https://ps.w.org/benefits/assets/screenshot-7.jpg)
+![8. Benefits - Admin User Manual](https://ps.w.org/benefits/assets/screenshot-8.jpg)
 
 
 # Changelog
