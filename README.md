@@ -58,7 +58,7 @@ Plus - I'm giving a promise to you, that this plugin is and will always be 100% 
 Finally - the code is poetry - __the better is the web, the happier is the world__.
 
 - - - -
-== Languages ==
+# Languages
 
 * English _(official)_
 * Russian _(official)_
