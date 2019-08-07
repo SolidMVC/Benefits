@@ -1,26 +1,19 @@
-# Benfits
+=== Benefits ===
+Contributors: KestutisIT
+Donate link: https://profiles.wordpress.org/KestutisIT
+Website link: https://wordpress.org/plugins/benefits/
+Tags: slider, offers, benefits, benefit, offer
+Requires at least: 4.6
+Tested up to: 5.2
+Requires PHP: 5.6
+Stable tag: trunk
+License: MIT License
+License URI: https://opensource.org/licenses/MIT
+
 It’s a MIT-licensed (can be used in premium themes), high quality, native and responsive WordPress plugin to create and view slider-based benefits
 
-**Contributors:** KestutisIT, mariusslo
 
-**Website link:** https://wordpress.org/plugins/benefits/
-
-**Tags:** slider, offers, benefits, benefit, offer
-
-**Requires at least:** 4.6
-
-**Tested up to:** 5.2
-
-**Requires PHP:** 5.4
-
-**Stable tag:** trunk
-
-**License:** MIT License
-
-**License URI:** https://opensource.org/licenses/MIT
-
-
-# Description
+== Description ==
 
 **First** - differently than any other similar plugin, this plugin is based on MIT license, which is a holly-grail for premium theme authors on i.e. ThemeForest or similar marketplaces.
 Differently to standard GPLv2 license you are not required to open-source your theme and you **CAN** include this plugin into your premium websites bundle packs.
@@ -77,10 +70,13 @@ Finally - the code is poetry - __the better is the web, the happier is the world
 * Swedish _(translated by Kristian Salov)_
 * Turkish _(translated by Levent Şane)_
 
-# Live Demo
+== Live Demo ==
 [Benefits (Live Demo)](http://nativerental.com/cars/ "Benefits (Live Demo)")
 
-# Installation
+== GitHub Repository (for those, who want to contribute via "Pull Requests") ==
+[https://github.com/SolidMVC/Benefits](https://github.com/SolidMVC/Benefits "Benefits @GitHub")
+
+== Installation ==
 
 This section describes how to install the plugin and get it working.
 
@@ -94,7 +90,7 @@ This section describes how to install the plugin and get it working.
 7. Congratulations, you're done! We wish you to have a pleasant work with our Benefits Plugin for WordPress.
 
 
-# Frequently Asked Questions
+== Frequently Asked Questions ==
 
 = Does it supports multiple slides of benefits? =
 
@@ -110,25 +106,25 @@ to your website's benefit page and show only desired benefit by following this U
 `
 
 
-# Screenshots
+== Screenshots ==
 
-![1. Benefits - Front-End Benefits Slider](https://ps.w.org/deals/assets/screenshot-1.jpg)
-![2. Benefits - Responsive View of Benefits Slider](https://ps.w.org/deals/assets/screenshot-2.jpg)
-![3. Benefits - Admin Benefit Manager](https://ps.w.org/deals/assets/screenshot-3.jpg)
-![4. Benefits - Admin Global Settings](https://ps.w.org/deals/assets/screenshot-4.jpg)
-![5. Benefits - Admin Import Demo](https://ps.w.org/deals/assets/screenshot-5.jpg)
-![6. Benefits - Admin Plugin Updating](https://ps.w.org/deals/assets/screenshot-6.jpg)
-![7. Benefits - Admin Plugin Status](https://ps.w.org/deals/assets/screenshot-7.jpg)
-![8. Benefits - Admin User Manual](https://ps.w.org/deals/assets/screenshot-8.jpg)
+1. Benefits - Front-End Benefits Slider
+2. Benefits - Responsive View of Benefits Slider
+3. Benefits - Admin Benefit Manager
+4. Benefits - Admin Global Settings
+5. Benefits - Admin Import Demo
+6. Benefits - Admin Plugin Updating
+7. Benefits - Admin Plugin Status
+8. Benefits - Admin User Manual
 
 
-# Changelog
+== Changelog ==
 
 = 6.1.8 =
 * Initial public release! Based on S.O.L.I.D. MVC Engine, Version 6 (without extensions).
 
 
-# Upgrade Notice
+== Upgrade Notice ==
 
 = 6.1.8+ =
 * Just drag and drop new plugin folder or click 'update' in WordPress plugin manager.
