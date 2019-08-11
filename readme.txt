@@ -1,5 +1,5 @@
 === Benefits ===
-Contributors: KestutisIT
+Contributors: KestutisIT, mariusslo
 Donate link: https://profiles.wordpress.org/KestutisIT
 Website link: https://wordpress.org/plugins/benefits/
 Tags: slider, offers, benefits, benefit, offer
@@ -71,7 +71,7 @@ Finally - the code is poetry - __the better is the web, the happier is the world
 * Turkish _(translated by Levent Şane)_
 
 == Live Demo ==
-[Benefits (Live Demo)](http://nativerental.com/cars/ "Benefits (Live Demo)")
+[Benefits (Live Demo)](https://nativerental.com/cars/ "Benefits (Live Demo)")
 
 == GitHub Repository (for those, who want to contribute via "Pull Requests") ==
 [https://github.com/SolidMVC/Benefits](https://github.com/SolidMVC/Benefits "Benefits @GitHub")
@@ -119,6 +119,12 @@ to your website's benefit page and show only desired benefit by following this U
 
 
 == Changelog ==
+
+= 6.1.9 =
+* Fixed compatibility style routing bug
+* Refactored time(UTC)
+* HTTP changed to HTTPS
+* Refactored CSSFile to CSS_File
 
 = 6.1.8 =
 * Initial public release! Based on S.O.L.I.D. MVC Engine, Version 6 (without extensions).

@@ -194,7 +194,7 @@ final class Benefit extends AbstractStack implements StackInterface, ElementInte
                 $validUploadedImageFileName = '';
                 if($_FILES['benefit_image']['tmp_name'] != '')
                 {
-                    $uploadedImageFileName = StaticFile::uploadImageFile($_FILES['benefit_image'], $this->conf->getGlobalGalleryPathWithoutEndSlash(), "location_");
+                    $uploadedImageFileName = StaticFile::uploadImageFile($_FILES['benefit_image'], $this->conf->getGlobalGalleryPathWithoutEndSlash(), "benefit_");
                     StaticFile::makeThumbnail($this->conf->getGlobalGalleryPath(), $uploadedImageFileName, $this->thumbWidth, $this->thumbHeight, "thumb_");
                     $validUploadedImageFileName = esc_sql(sanitize_file_name($uploadedImageFileName)); // for sql query only
                 }
@@ -243,7 +243,7 @@ final class Benefit extends AbstractStack implements StackInterface, ElementInte
                 $validUploadedImageFileName = '';
                 if($_FILES['benefit_image']['tmp_name'] != '')
                 {
-                    $uploadedImageFileName = StaticFile::uploadImageFile($_FILES['benefit_image'], $this->conf->getGlobalGalleryPathWithoutEndSlash(), "location_");
+                    $uploadedImageFileName = StaticFile::uploadImageFile($_FILES['benefit_image'], $this->conf->getGlobalGalleryPathWithoutEndSlash(), "benefit_");
                     StaticFile::makeThumbnail($this->conf->getGlobalGalleryPath(), $uploadedImageFileName, $this->thumbWidth, $this->thumbHeight, "thumb_");
                     $validUploadedImageFileName = esc_sql(sanitize_file_name($uploadedImageFileName)); // for sql query only
                 }

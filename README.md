@@ -124,6 +124,12 @@ to your website's benefit page and show only desired benefit by following this U
 
 # Changelog
 
+= 6.1.9 =
+* Fixed compatibility style routing bug
+* Refactored time(UTC)
+* HTTP changed to HTTPS
+* Refactored CSSFile to CSS_File
+
 = 6.1.8 =
 * Initial public release! Based on S.O.L.I.D. MVC Engine, Version 6 (without extensions).
 
