@@ -78,7 +78,7 @@ Finally - the code is poetry - __the better is the web, the happier is the world
 * Turkish _(translated by Levent Şane)_
 
 # Live Demo
-[Benefits (Live Demo)](http://nativerental.com/cars/ "Benefits (Live Demo)")
+[Benefits (Live Demo)](https://nativerental.com/cars/ "Benefits (Live Demo)")
 
 # Installation
 
