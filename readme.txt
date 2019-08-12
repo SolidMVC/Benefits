@@ -120,6 +120,9 @@ to your website's benefit page and show only desired benefit by following this U
 
 == Changelog ==
 
+= 6.1.10 =
+* Fixed semver issue
+
 = 6.1.9 =
 * Fixed compatibility style routing bug
 * Refactored time(UTC)
